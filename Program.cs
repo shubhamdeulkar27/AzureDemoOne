@@ -22,5 +22,10 @@ namespace AzureDemoOne
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+
+
+
+
+
     }
 }
