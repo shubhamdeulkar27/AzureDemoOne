@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qme19LINfx2ODYpmHc4yC7PC5KinzHrcdKpPrqrP8vMo9hU1Q1ODZVEqxcCVSFcsbpY9x71gbPyFDPez/D1Pbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\AzureDemoOne\\AzureDemoOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
